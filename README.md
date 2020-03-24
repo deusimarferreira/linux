@@ -2,4 +2,4 @@
 Comandos interessantes para o dia-a-dia
 
 ## Comandos
-* [ps](/ps)
+* [ps](/ps.md)
