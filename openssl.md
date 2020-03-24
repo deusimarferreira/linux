@@ -11,3 +11,5 @@ update-ca-trust
 # Ubuntu
 /usr/local/share/ca-certificates/hod.crt
 ~~~
+
+[Cadeia de certificado ICP-Brasil](https://blog.certisign.com.br/certificado-digital-ssl-invalido-ou-nao-confiavel-na-rfb/)
