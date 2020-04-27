@@ -6,3 +6,4 @@ Comandos interessantes para o dia-a-dia
 * [vim](/vim.md)
 * [openssl](/openssl.md)
 * [x3270](/s3270.md)
+* [Python](./python.md)
