@@ -4,4 +4,4 @@
 [yum](https://access.redhat.com/articles/yum-cheat-sheet)
 
 ## Debian, Ubuntu
-[apt]()
+[refcard](https://www.debian.org/doc/manuals/refcard/refcard)
