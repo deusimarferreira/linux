@@ -2,6 +2,7 @@
 Comandos interessantes para o dia-a-dia
 
 ## Comandos
+* [Instalação/Referência](/install.md)
 * [ps](/ps.md)
 * [vim](/vim.md)
 * [openssl](/openssl.md)
