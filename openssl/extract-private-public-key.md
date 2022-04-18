@@ -1,4 +1,4 @@
-# Extraíndo Chave Privada e Pública
+# Extraíndo Chave Privada
 Nesse exemplo será demonstrado como extrair a chave privada de um arquivo ``pfx`` e seu hash que será usado para validação do certificado comparando o hash da chave privada com o hash da chave pública. 
 
 > O arquivo ``pfx`` deve estar em formato PKCS#12 e incluir o certificado e a chave privada.
